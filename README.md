@@ -5,9 +5,9 @@ Can call me "Daniel"
 I'm 19 years old.
 
 - 🌱 I am studying at :
--Cyber Security Program,
--Faculty of Science and Technology,
--Suan Dusit University.
+Cyber Security Program,
+Faculty of Science and Technology,
+Suan Dusit University.
 
 - 🔭 I’m currently working on :
 I am currently learning about website system maintenance, and I am also interested in creating 3D games.
