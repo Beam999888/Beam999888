@@ -41,8 +41,16 @@ He/Him
 <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="php" width="45" height="45"/>
 <img src="https://media.printables.com/media/prints/852559/images/6557322_27c4a7b3-e480-40d4-9b62-10c9f5570d24_7d21314a-1720-45d8-ba5a-77c27f44d9fe/thumbs/inside/1280x960/png/wt1.webp" alt="php" width="45" height="45"/>
 <img src="https://play-lh.googleusercontent.com/s8moWkCF9wE-ynJgNyq8k3uhhVlbQLdphqTYJWkrsLRxkFZxx9FvykHmwXYmTl_h0l8" alt="php" width="45" height="45"/>
-<img src="" alt="php" width="45" height="45"/>
-<img src="" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" alt="php" width="45" height="45"/>
+<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg/516px-Microsoft_Office_Word_%282019%E2%80%932025%29.svg.png" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" alt="php" width="45" height="45"/>
+<img src="https://cdn.pixabay.com/photo/2021/01/30/12/18/powerpoint-5963677_1280.png" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_euQMuV1xA5dPM4Rn6bXPwCi0jqANN8YfA&s" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt="php" width="45" height="45"/>
+
 </p>
 
 
