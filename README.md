@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hello👋
 
-<div id="header" align="center"> 
-  <img src="(179).png"
-</div>
+<p align="center">
+  <img src="ภาพหน้าจอ (179).png &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 **Beam999888/Beam999888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
