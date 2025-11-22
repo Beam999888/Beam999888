@@ -1,22 +1,32 @@
-## Hello👋
+## 👋 Hello!
 
-My name is "Anukun Boontha"
-Can call me "Daniel"
-I'm 19 years old.
+### I'm **Anukun Boontha**  
+You can call me **Daniel**  
+I'm **19 years old**
 
-- 🌱 I am studying at :
-Cyber Security Program,
-Faculty of Science and Technology,
-Suan Dusit University.
+---
 
-- 🔭 I’m currently working on :
-I am currently learning about website system maintenance, and I am also interested in creating 3D games.
+### 🌱 **Education**
+**Cyber Security Program**  
+Faculty of Science and Technology  
+**Suan Dusit University**
 
-- 📫 How to reach me:
-Instagram : @o_o.beam.000
-,Facebook  : Beam Anukun
-,Tiktok    : @beam999888
+---
 
-- 😄 Pronouns: He/him
+### 🔭 **What I'm Learning**
+- Website system maintenance  
+- 3D game development
+
+---
+
+### 📫 **How to reach me**
+- **Instagram:** @o_o.beam.000  
+- **Facebook:** Beam Anukun  
+- **Tiktok:** @beam999888  
+
+---
+
+### 😄 **Pronouns**
+He/Him
 
 
