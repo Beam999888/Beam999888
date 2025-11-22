@@ -1,19 +1,26 @@
 ## Hello👋
 
-<p align="center">
-  <img src="ภาพหน้าจอ (179).png &animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 **Beam999888/Beam999888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My name is "Anukun Boontha"
+Can call me "Daniel"
+I'm 19 years old.
+
+- 🌱 I am studying at :
+Cyber Security Program,
+Faculty of Science and Technology,
+Suan Dusit University.
+
+- 🔭 I’m currently working on :
+I am currently learning about website system maintenance, and I am also interested in creating 3D games.
+
+- 📫 How to reach me:
+Instagram : @o_o.beam.000
+Facebook  : Beam Anukun
+Tiktok    : @beam999888
+
+- 😄 Pronouns: He/him
+
 
