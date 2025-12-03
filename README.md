@@ -87,9 +87,9 @@ He/Him
 ---
 
 <p align="center">
-  <img src="01.jpg" width="280">
-  <img src="02.jpg" width="280">
-  <img src="03.jpg" width="280">
+  <img src="https://github.com/user-attachments/assets/969045c4-2b5f-4adf-af75-63d872975583" alt="หน้าหลักระบบแจ้งลดหย่อนภาษี" width="1000">
+  <img src="https://github.com/user-attachments/assets/1db602c5-6ba0-4171-bc88-3a49abdc6e0a" alt="แบบฟอร์มแจ้งรายการลดหย่อน ล.ย.01" width="1000">
+  <img src="https://github.com/user-attachments/assets/434f3b7d-b52f-4335-bd14-d53cfe4043fa" alt="หน้าแสดงรายการที่แจ้งแล้ว" width="1000">
 </p>
 
 ---
