@@ -27,7 +27,22 @@ Faculty of Science and Technology
 ---
 
 ## 🎨 ** LINE Stickers created by me **
-คุณสามารถสนับสนุนผลงานสติ๊กเกอร์ไลน์ของผมได้ที่นี่ครับ! 👇
+เพิ่มสีสันและเสียงหัวเราะให้กับการสนทนาของคุณด้วย LINE Sticker ทั้ง 4 ชุดสุดน่ารักและกวนๆ ในราคาพิเศษสุดคุ้ม เพียงชุดละ 1 ดอลลาร์เท่านั้น!   
+รายละเอียดสติกเกอร์ทั้ง 4 ชุด
+
+**Mr.beam01**
+คาแรคเตอร์เสื้อเขียวสุดน่ารัก ถ่ายทอดอารมณ์และท่าทางในชีวิตประจำวันได้อย่างลงตัว ทั้งท่าคิด ท่าแอบมอง ท่าเขินอาย ไปจนถึงโมเมนต์นอนหลับและบอกฝันดี เหมาะกับการใช้งานทุกวัน   
+
+**Mr.beam02**
+เพิ่มดีกรความกวนและความเร้าใจด้วยคาแรคเตอร์เสื้อฟ้า อารมณ์จัดเต็มแบบครบเครื่อง ไม่ว่าจะเป็นโหมดโกรธจนไฟลุก โหมดคูลๆ หัวเราะสุดขีด หรือคำพูดติดปากอย่าง OK, I'm Sorry และ Thank you  
+
+**Mr.beam03**
+สติกเกอร์ที่โดนใจสายฮาและคนนอนดึก ถ่ายทอดโมเมนต์การทำงาน การพักผ่อน ความง่วงเหงาหาวนอน และอารมณ์ขันในหลากหลายอิริยาบถ ช่วยให้การคุยกับเพื่อนสนุกยิ่งขึ้น  
+
+**katak_katak**
+ความแปลกใหม่ที่ไม่เหมือนใครกับ สติกเกอร์น่องไก่ทอด สุดกวน แอคชันแน่นๆ ไม่ว่าจะเป็นรอยยิ้ม ท่าร้องไห้ ท่าสุดเท่ หรือท่าทางกวนๆ ที่เห็นแล้วต้องอมยิ้มตาม   
+
+💡 คุ้มค่าขนาดนี้ รีบจับจองเป็นเจ้าของกันได้เลย ชุดละ 1 ดอลลาร์เท่านั้น!
 
 <table>
   <tr>
@@ -63,25 +78,25 @@ Faculty of Science and Technology
   <tr>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36509547" target="_blank">
-        <img src="Screenshot 2026-09-18 204443.png" width="1000px"/><br/>
+        <img src="Screenshot 2026-09-18 204443.png" width="500px" height="500px" style="object-fit: contain;"/><br/>
         <b>Mr.beam01</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36532613" target="_blank">
-        <img src="Screenshot 2026-09-18 204456.png" width="1000px"/><br/>
+        <img src="Screenshot 2026-09-18 204456.png" width="500px" height="500px" style="object-fit: contain;"/><br/>
         <b>Mr.beam02</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36683995" target="_blank">
-        <img src="Screenshot 2026-09-18 204505.png" width="1000px"/><br/>
+        <img src="Screenshot 2026-09-18 204505.png" width="500px" height="500px" style="object-fit: contain;"/><br/>
         <b>Mr.beam03</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36688106" target="_blank">
-        <img src="Screenshot 2026-09-18 204518.png" width="1000px"/><br/>
+        <img src="Screenshot 2026-09-18 204518.png" width="500px" height="500px" style="object-fit: contain;"/><br/>
         <b>katak_katak</b>
       </a>
     </td>
