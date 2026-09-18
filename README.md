@@ -30,25 +30,25 @@ Faculty of Science and Technology
   <tr>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36509547" target="_blank">
-        <img src="Screenshot 2026-09-18 204443.png" width="120px"/><br/>
+        <img src="Screenshot 2026-09-18 204443.png" width="500px"/><br/>
         <b>Mr.beam01</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36532613" target="_blank">
-        <img src="Screenshot 2026-09-18 204456.png" width="120px"/><br/>
+        <img src="Screenshot 2026-09-18 204456.png" width="500px"/><br/>
         <b>Mr.beam02</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36683995" target="_blank">
-        <img src="Screenshot 2026-09-18 204505.png" width="120px"/><br/>
+        <img src="Screenshot 2026-09-18 204505.png" width="500px"/><br/>
         <b>Mr.beam03</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36688106" target="_blank">
-        <img src="Screenshot 2026-09-18 204518.png" width="120px"/><br/>
+        <img src="Screenshot 2026-09-18 204518.png" width="500px"/><br/>
         <b>katak_katak</b>
       </a>
     </td>
