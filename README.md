@@ -27,22 +27,28 @@ Faculty of Science and Technology
 ---
 
 ## 🎨 ** LINE Stickers created by me **
-เพิ่มสีสันและเสียงหัวเราะให้กับการสนทนาของคุณด้วย LINE Sticker ทั้ง 4 ชุดสุดน่ารักและกวนๆ ในราคาพิเศษสุดคุ้ม เพียงชุดละ 1 ดอลลาร์เท่านั้น!   
-รายละเอียดสติกเกอร์ทั้ง 4 ชุด
 
-**Mr.beam01**
-คาแรคเตอร์เสื้อเขียวสุดน่ารัก ถ่ายทอดอารมณ์และท่าทางในชีวิตประจำวันได้อย่างลงตัว ทั้งท่าคิด ท่าแอบมอง ท่าเขินอาย ไปจนถึงโมเมนต์นอนหลับและบอกฝันดี เหมาะกับการใช้งานทุกวัน   
+✨ Add some color, fun, and laughter to your conversations with these 4 cute and quirky LINE Sticker sets, available now for a special price of just $1 each! 🎉
 
-**Mr.beam02**
-เพิ่มดีกรความกวนและความเร้าใจด้วยคาแรคเตอร์เสื้อฟ้า อารมณ์จัดเต็มแบบครบเครื่อง ไม่ว่าจะเป็นโหมดโกรธจนไฟลุก โหมดคูลๆ หัวเราะสุดขีด หรือคำพูดติดปากอย่าง OK, I'm Sorry และ Thank you  
+📌 Sticker Set Details:
 
-**Mr.beam03**
-สติกเกอร์ที่โดนใจสายฮาและคนนอนดึก ถ่ายทอดโมเมนต์การทำงาน การพักผ่อน ความง่วงเหงาหาวนอน และอารมณ์ขันในหลากหลายอิริยาบถ ช่วยให้การคุยกับเพื่อนสนุกยิ่งขึ้น  
+🟢 Mr.beam01
+A cute green-shirt character that perfectly captures everyday moods and actions—from thinking, peeking, and acting shy to sleeping and saying goodnight. Ideal for everyday use.
+👉 Get this set: https://line.me/S/sticker/36509547   
 
-**katak_katak**
-ความแปลกใหม่ที่ไม่เหมือนใครกับ สติกเกอร์น่องไก่ทอด สุดกวน แอคชันแน่นๆ ไม่ว่าจะเป็นรอยยิ้ม ท่าร้องไห้ ท่าสุดเท่ หรือท่าทางกวนๆ ที่เห็นแล้วต้องอมยิ้มตาม   
+🔵 Mr.beam02
+Boost the fun and excitement with a blue-shirt character full of lively expressions, from being furious to looking cool, laughing out loud, or using everyday phrases like OK, I'm Sorry, and Thank you.
+👉 Get this set: https://line.me/S/sticker/36532613   
 
-💡 คุ้มค่าขนาดนี้ รีบจับจองเป็นเจ้าของกันได้เลย ชุดละ 1 ดอลลาร์เท่านั้น!
+🔴 Mr.beam03
+A quirky red-shirt character that comedy lovers and night owls will love, capturing work moments, relaxation, sleepiness, and humorous low-energy moods to make chatting with friends even more fun.
+👉 Get this set: https://line.me/S/sticker/36683995   
+
+🍗 katak_katak
+A unique and one-of-a-kind crispy fried chicken drumstick sticker set packed with expressive actions, smiles, crying, cool poses, and funny faces that will make you smile.
+👉 Get this set: https://line.me/S/sticker/36688106   
+
+💡 Such an amazing deal! Grab yours now for only $1 per set! 🛒✨   
 
 <table>
   <tr>
