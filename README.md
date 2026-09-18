@@ -20,11 +20,20 @@ Faculty of Science and Technology
 ---
 
 ### 📫 **How to reach me**
-- **Instagram:** @o_o.beam.000  
+- **Instagram:** @dn_beam
 - **Facebook:** Beam Anukun  
 - **Tiktok:** @beam999888  
 
 ---
+
+---
+
+### 🎨 ** LINE Stickers created by me **
+คุณสามารถสนับสนุนผลงานสติ๊กเกอร์ไลน์ของผมได้ที่นี่ครับ! 👇
+- [LINE Sticker Mr.beam01](https://line.me/S/sticker/36509547)
+- [LINE Sticker Mr.beam02](https://line.me/S/sticker/36532613)
+- [LINE Sticker Mr.beam03](https://line.me/S/sticker/36683995)
+- [LINE Sticker katak_katak](https://line.me/S/sticker/36688106)
 
 ### 😄 **Pronouns**
 He/Him
