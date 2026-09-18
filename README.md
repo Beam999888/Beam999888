@@ -26,7 +26,7 @@ Faculty of Science and Technology
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="25%">
       <a href="https://line.me/S/sticker/36509547" target="_blank">
