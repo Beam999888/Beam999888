@@ -28,6 +28,27 @@ Faculty of Science and Technology
 
 ## 🎨 ** LINE Stickers created by me **
 
+✨ Add some color, fun, and laughter to your conversations with these 4 cute and quirky LINE Sticker sets, available now for a special price of just $1 each! 🎉
+
+📌 Sticker Set Details:
+
+**🟢 Mr.beam01**
+A cute green-shirt character that perfectly captures everyday moods and actions—from thinking, peeking, and acting shy to sleeping and saying goodnight. Ideal for everyday use.
+👉 Get this set: https://line.me/S/sticker/36509547   
+
+**🔵 Mr.beam02**
+Boost the fun and excitement with a blue-shirt character full of lively expressions, from being furious to looking cool, laughing out loud, or using everyday phrases like OK, I'm Sorry, and Thank you.
+👉 Get this set: https://line.me/S/sticker/36532613   
+
+**🔴 Mr.beam03**
+A quirky red-shirt character that comedy lovers and night owls will love, capturing work moments, relaxation, sleepiness, and humorous low-energy moods to make chatting with friends even more fun.
+👉 Get this set: https://line.me/S/sticker/36683995   
+
+**🍗 katak_katak**
+A unique and one-of-a-kind crispy fried chicken drumstick sticker set packed with expressive actions, smiles, crying, cool poses, and funny faces that will make you smile.
+👉 Get this set: https://line.me/S/sticker/36688106   
+
+💡 Such an amazing deal! Grab yours now for only $1 per set! 🛒✨   
 
 <table>
   <tr>
