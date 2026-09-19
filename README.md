@@ -141,7 +141,7 @@ He/Him
 ---
 
 ### 🎮 **Games created by me**
-<img src="https://img.itch.zone/aW1nLzE5NTE0MDU3LmpwZw==/315x250%23c/W0vTFV.jpg" alt="php" width="240" height="200"/>
+<img src="https://img.itch.zone/aW1nLzE5NTE0MDU3LmpwZw==/315x250%23c/W0vTFV.jpg" alt="php" width="200" height="180"/>
 
 ## 🎮 Food For Life – เกมที่ช่วยให้คุณตระหนักเรื่องการเลือกกิน!
 
